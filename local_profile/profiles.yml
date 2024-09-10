@@ -3,11 +3,11 @@ default:
     dev:
       account: kna33024
       database: bill_dbt_training
-      password: IP1oC4lL8@oh
+      user: bill.raper@g2o.com
+      authenticator: externalbrowser
       role: dbt_dev
       schema: dbt_braper
       threads: 1
       type: snowflake
-      user: braper
       warehouse: transforming
   target: dev
